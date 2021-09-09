@@ -17,6 +17,7 @@ struct Post {
     let postId: String
     let ownerImageUrl: String
     let ownerUsername: String
+    var didLike = false
     
     init(postId: String, dictionary: [String: Any]) {
         self.caption = dictionary["caption"] as? String ?? ""
@@ -24,7 +25,7 @@ struct Post {
         self.imageUrl = dictionary["imageUrl"] as? String ?? ""
         self.ownerUid = dictionary["ownerUid"] as? String ?? ""
         self.timestamp = dictionary["timestamp"] as? Timestamp ?? Timestamp(date: Date())
-        self.postId = dictionary["postId"] as? String ?? ""
+        self.postId = postId
         self.ownerImageUrl = dictionary["ownerImageUrl"] as? String ?? ""
         self.ownerUsername = dictionary["ownerUsername"] as? String ?? ""
     }

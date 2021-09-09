@@ -7,7 +7,7 @@
 
 import UIKit
 
-protocol UploadPostControllerDelegate: class {
+protocol UploadPostControllerDelegate: AnyObject {
     func controllerDidFinishUploadingPost(_ controller: UploadPostController)
 }
 
@@ -35,6 +35,7 @@ class UploadPostController: UIViewController {
         textView.placeholderText = "Enter caption.."
         textView.font = UIFont.systemFont(ofSize: 16)
         textView.delegate = self
+        textView.placeholderShouldCenter = false
         return textView
     }()
     

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CD77CF9E-8676-4D3A-9A34-046D2092621C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "544D5333-B7A6-4BC9-AAED-DA582B22B3BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramFirestoreTutorial/Controller/CommentController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "inputView(_:wantsToUploadComment:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "544D5333-B7A6-4BC9-AAED-DA582B22B3BB - 591aabd6d80270d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstagramFirestoreTutorial.CommentController.inputView(_: InstagramFirestoreTutorial.CommentInputAccessoryView, wantsToUploadComment: Swift.String) -&gt; ()"
+                  moduleName = "InstagramFirestoreTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aron/Desktop/Cursos/Cursos%20Udemy/InstagramFirestoreTutorial/InstagramFirestoreTutorial/Controller/CommentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "626">
+               </Location>
+               <Location
+                  uuid = "544D5333-B7A6-4BC9-AAED-DA582B22B3BB - 1344aa19ba2154a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in InstagramFirestoreTutorial.CommentController.inputView(_: InstagramFirestoreTutorial.CommentInputAccessoryView, wantsToUploadComment: Swift.String) -&gt; ()"
+                  moduleName = "InstagramFirestoreTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aron/Desktop/Cursos/Cursos%20Udemy/InstagramFirestoreTutorial/InstagramFirestoreTutorial/Controller/CommentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2860B6D0-0CC0-405E-9B94-D326E2DE305D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramFirestoreTutorial/Controller/FeedController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "cell(_:wantsToShowCommentsFor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C19D0E8E-4F51-48C8-B14B-DF6E96599DBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramFirestoreTutorial/Controller/CommentController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "fetchComments()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7584EC5E-ABC2-4F09-AC7A-CA47367326EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramFirestoreTutorial/Controller/CommentController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "fetchComments()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD6C06E4-BB78-4A17-8A6D-D8F98C25D7A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramFirestoreTutorial/API/CommentService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetchComments(forPost:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
