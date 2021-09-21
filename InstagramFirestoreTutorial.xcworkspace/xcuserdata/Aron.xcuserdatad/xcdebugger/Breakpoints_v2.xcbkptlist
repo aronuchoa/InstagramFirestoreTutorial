@@ -20,7 +20,7 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "544D5333-B7A6-4BC9-AAED-DA582B22B3BB - 591aabd6d80270d4"
+                  uuid = "544D5333-B7A6-4BC9-AAED-DA582B22B3BB - 591aabd6d80272c5"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -30,12 +30,12 @@
                   urlString = "file:///Users/Aron/Desktop/Cursos/Cursos%20Udemy/InstagramFirestoreTutorial/InstagramFirestoreTutorial/Controller/CommentController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "112"
-                  endingLineNumber = "112"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
                   offsetFromSymbolStart = "626">
                </Location>
                <Location
-                  uuid = "544D5333-B7A6-4BC9-AAED-DA582B22B3BB - 1344aa19ba2154a0"
+                  uuid = "544D5333-B7A6-4BC9-AAED-DA582B22B3BB - 1344aa19ba2156b7"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -45,8 +45,8 @@
                   urlString = "file:///Users/Aron/Desktop/Cursos/Cursos%20Udemy/InstagramFirestoreTutorial/InstagramFirestoreTutorial/Controller/CommentController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "113"
-                  endingLineNumber = "113"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
                   offsetFromSymbolStart = "48">
                </Location>
             </Locations>
@@ -62,8 +62,8 @@
             filePath = "InstagramFirestoreTutorial/Controller/FeedController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "113"
-            endingLineNumber = "113"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
             landmarkName = "cell(_:wantsToShowCommentsFor:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -113,6 +113,134 @@
             startingLineNumber = "31"
             endingLineNumber = "31"
             landmarkName = "fetchComments(forPost:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B05C7EC-2652-4754-A7F0-4A09338E4E14"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramFirestoreTutorial/Controller/FeedController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "cell(_:didLike:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B05C7EC-2652-4754-A7F0-4A09338E4E14 - b3fc6df6495ea1a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstagramFirestoreTutorial.FeedController.cell(_: InstagramFirestoreTutorial.FeedCell, didLike: InstagramFirestoreTutorial.Post) -&gt; ()"
+                  moduleName = "InstagramFirestoreTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aron/Desktop/Cursos/Cursos%20Udemy/InstagramFirestoreTutorial/InstagramFirestoreTutorial/Controller/FeedController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "762">
+               </Location>
+               <Location
+                  uuid = "6B05C7EC-2652-4754-A7F0-4A09338E4E14 - 57dff44929a469ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in InstagramFirestoreTutorial.FeedController.cell(_: InstagramFirestoreTutorial.FeedCell, didLike: InstagramFirestoreTutorial.Post) -&gt; ()"
+                  moduleName = "InstagramFirestoreTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aron/Desktop/Cursos/Cursos%20Udemy/InstagramFirestoreTutorial/InstagramFirestoreTutorial/Controller/FeedController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00A9591C-9FB5-48A1-A8C4-E83D09942372"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramFirestoreTutorial/API/NotificationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchNotifications(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80085DEC-90AE-49FB-81B9-FEB9E5278EE7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramFirestoreTutorial/Controller/NotificationsController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchNotifications()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "80085DEC-90AE-49FB-81B9-FEB9E5278EE7 - 35b90ac5e42927b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstagramFirestoreTutorial.NotificationsController.fetchNotifications() -&gt; ()"
+                  moduleName = "InstagramFirestoreTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aron/Desktop/Cursos/Cursos%20Udemy/InstagramFirestoreTutorial/InstagramFirestoreTutorial/Controller/NotificationsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "80085DEC-90AE-49FB-81B9-FEB9E5278EE7 - 64f5c594f5bb7e63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;InstagramFirestoreTutorial.Notification&gt;) -&gt; () in InstagramFirestoreTutorial.NotificationsController.fetchNotifications() -&gt; ()"
+                  moduleName = "InstagramFirestoreTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aron/Desktop/Cursos/Cursos%20Udemy/InstagramFirestoreTutorial/InstagramFirestoreTutorial/Controller/NotificationsController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C442B8B4-A8DA-4989-8CB1-0E286A28CC6D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramFirestoreTutorial/Controller/NotificationsController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
