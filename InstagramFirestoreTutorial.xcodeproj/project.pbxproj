@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C04868426FAE07700055A77 /* ResetPasswordController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C04868326FAE07700055A77 /* ResetPasswordController.swift */; };
 		9C071D5F26EBC4A10046AF0F /* NotificationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C071D5E26EBC4A10046AF0F /* NotificationCell.swift */; };
 		9C071D6126EBE5140046AF0F /* Notification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C071D6026EBE5140046AF0F /* Notification.swift */; };
 		9C071D6326EBEDEA0046AF0F /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C071D6226EBEDEA0046AF0F /* NotificationService.swift */; };
@@ -57,6 +58,7 @@
 /* Begin PBXFileReference section */
 		069CD5CAABEB62124B8F4580 /* Pods_InstagramFirestoreTutorial.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_InstagramFirestoreTutorial.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		844DB51AA95739113D6E1445 /* Pods-InstagramFirestoreTutorial.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstagramFirestoreTutorial.debug.xcconfig"; path = "Target Support Files/Pods-InstagramFirestoreTutorial/Pods-InstagramFirestoreTutorial.debug.xcconfig"; sourceTree = "<group>"; };
+		9C04868326FAE07700055A77 /* ResetPasswordController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResetPasswordController.swift; sourceTree = "<group>"; };
 		9C071D5E26EBC4A10046AF0F /* NotificationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationCell.swift; sourceTree = "<group>"; };
 		9C071D6026EBE5140046AF0F /* Notification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notification.swift; sourceTree = "<group>"; };
 		9C071D6226EBEDEA0046AF0F /* NotificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationService.swift; sourceTree = "<group>"; };
@@ -265,6 +267,7 @@
 			children = (
 				9C89C52D25C222A4004F85AD /* LoginController.swift */,
 				9C89C53125C222B8004F85AD /* RegistrationController.swift */,
+				9C04868326FAE07700055A77 /* ResetPasswordController.swift */,
 			);
 			path = Authentication;
 			sourceTree = "<group>";
@@ -408,6 +411,7 @@
 				9C5047AA25CA59C800E52B17 /* ProfileHeaderViewModel.swift in Sources */,
 				9C28394425CC88E9006D37E1 /* InputTextView.swift in Sources */,
 				9C41F35C25C9FC21001878B0 /* Constants.swift in Sources */,
+				9C04868426FAE07700055A77 /* ResetPasswordController.swift in Sources */,
 				9C2B29C325C068F8003B3B45 /* MainTabController.swift in Sources */,
 				9C5047B025CB182100E52B17 /* UserCellViewModel.swift in Sources */,
 				9C2B29D025C06941003B3B45 /* NotificationsController.swift in Sources */,
