@@ -121,7 +121,12 @@ extension MainTabController: UITabBarControllerDelegate {
             configuration.library.maxNumberOfItems = 1
             
             let picker = YPImagePicker(configuration: configuration)
-            picker.modalPresentationStyle = .fullScreen
+//            picker.modalPresentationStyle = .fullScreen
+//            picker.navigationBar.barTintColor = .white
+//            picker.navigationBar.tintColor = .white
+//            self.navigationItem.titleView?.backgroundColor = .white
+//            self.navigationController?.navigationBar.tintColor = .white
+            picker.navigationBar.barStyle = .black
             present(picker, animated: true, completion: nil)
             
             didFinishPickingMedia(picker)

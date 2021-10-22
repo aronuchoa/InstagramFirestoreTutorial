@@ -106,7 +106,7 @@ class UploadPostController: UIViewController {
         captionTextView.anchor(top: photoImageView.bottomAnchor, left: view.leftAnchor, right: view.rightAnchor, paddingTop: 16, paddingLeft: 12, paddingRight: 12, height: 64)
         
         view.addSubview(characterCountLable)
-        characterCountLable.anchor(bottom: captionTextView.bottomAnchor, right: view.rightAnchor, paddingBottom: -8, paddingRight: 12)
+        characterCountLable.anchor(bottom: captionTextView.bottomAnchor, right: view.rightAnchor, paddingBottom: -16, paddingRight: 12)
     }
 }
 
